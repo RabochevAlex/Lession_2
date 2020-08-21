@@ -99,6 +99,7 @@ func simpleNumber(_ countNumber:Int)->[Int] {
     return simpelNummerArray
 }
 print(simpleNumber(100))
+// для пул реквеста
 
 
 
